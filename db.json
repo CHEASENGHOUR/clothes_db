@@ -1,0 +1,19 @@
+{
+    "men":[
+        {
+            "id": 1,
+            "name": "White T-Shirt",
+            "price": 29.99,
+            "image": "https://i.pinimg.com/474x/00/d5/35/00d5355483de08b13e6ae6e5f7aefbba.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Black T-Shirt",
+            "price": 29.99,
+            "image": "https://i.pinimg.com/474x/04/f0/35/04f035f1297dae04051dc329c9eaa251.jpg"
+        }
+    ],
+    "women": [
+        {}
+    ]
+}
